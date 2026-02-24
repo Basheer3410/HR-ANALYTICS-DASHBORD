@@ -6,4 +6,6 @@ Pivot tables, slicers, and dynamic charts are used for data visualization and in
 The dashboard enables quick workforce analysis and better HR decision-making.
 This project demonstrates strong Excel skills in data analysis and dashboard creation.
 
-![Uploading Screenshot 2026-02-19 212659.png…]()
+
+<img width="1150" height="585" alt="Screenshot 2026-02-19 212659" src="https://github.com/user-attachments/assets/0ac81506-220d-44c7-8c66-f28b49c9efee" />
+
